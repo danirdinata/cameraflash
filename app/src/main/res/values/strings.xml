@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera Flash</string>
+    <string name="klik_saya">Click Me On Camera</string>
+    <string name="created">Created by Dani Rycki Dinata</string>
+    <string name="nrp">193040191</string>
+    <string name="action_settings">menu</string>
+    <string name="Flash">Flash </string>
+    <string name="pengaksesan_hardware">Pengaksesan Hardware</string>
+</resources>
